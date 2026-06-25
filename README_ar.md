@@ -183,6 +183,17 @@
 - [حدود أرصدة الكربون وأرصدة التبريد](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit/blob/main/README_ar.md)
 - [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
 
+## روابط ذات صلة
+
+### البنية السببية للاحترار العالمي وأرصدة التبريد
+
+- [مقال NOTE: أسباب الاحترار العالمي وبنيته السببية](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+يربط هذا النموذج السببي الاحترار العالمي ليس فقط بزيادة CO₂، بل أيضًا بضعف وفقدان وظائف التبريد الطبيعية للأرض، مثل الغابات، والنتح، وميكروبات التربة، ودورة الماء، والعوالق النباتية، ودوران المحيط والغلاف الجوي.
+
 ## المؤلف
 
 **Master / inchacomusho / InchaComisho**
