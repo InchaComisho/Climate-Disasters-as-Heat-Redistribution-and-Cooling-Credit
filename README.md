@@ -1,243 +1,178 @@
-# Climate Disasters as Heat Redistribution and Cooling Credit
+# Climate Disasters Are a Sign That the Earth Is Trying to Release Heat — Thermal Accounting and Cooling Credits in the Age of Typhoons, Heavy Rain, and El Niño
 
 English | [日本語](./README_ja.md) | [العربية](./README_ar.md)
 
-> Climate disasters should not be viewed only as isolated hazards.  
-> Typhoons, heavy rainfall, heat waves, droughts, marine heat waves, and wildfires can also be understood as violent expressions of an overloaded Earth system trying to redistribute excess heat and water vapor.
+## Conclusion: Climate Disasters Are a Sign of an Overloaded Heat-Circulation System
 
----
+Climate disasters are often treated only as isolated extreme events. This document frames them as signs that the planetary heat-circulation system is becoming overloaded.
 
-## Summary
+- The atmosphere can hold more water vapor as it warms.
+- The ocean stores enormous amounts of heat.
+- When heat and moisture accumulate, circulation can become more intense.
+- Typhoons, heavy rain, floods, drought, marine heat waves, and El Niño-related disruption may all reflect a stressed heat and water cycle.
 
-Climate disasters are often described as damage events: wind damage, flood damage, heat stress, crop loss, or wildfire loss.
+Climate disasters can be understood as the violent expression of the Earth’s attempt to redistribute excess heat and water vapor.
 
-That view is necessary, but incomplete.
+## Climate Disasters Are a Redistribution of Heat and Water Vapor
 
-Atmospheric and oceanic circulation systems move heat and water vapor across the planet. Warm oceans evaporate water, clouds form, winds blow, rain falls, and heat is transported elsewhere. Typhoons, cyclones, low-pressure systems, monsoons, ocean currents, and jet streams are all parts of this planetary redistribution system.
+Disasters do not occur outside planetary circulation. They are connected to the movement of heat, water vapor, pressure, wind, and ocean energy.
 
-In a stable climate, this redistribution helps reduce local heat imbalance.
+- Warm oceans can supply energy to storms.
+- Warm air can carry more water vapor.
+- Heavy rain can occur when large amounts of vapor condense quickly.
+- Drought can occur when atmospheric and oceanic circulation shifts moisture away from a region.
+- Floods and dry periods can therefore be different expressions of the same overloaded circulation system.
 
-In the age of global warming, however, the system itself is overloaded.
+A circulation system that would normally reduce heat imbalance can appear as disaster when the entire planet is already overloaded with heat.
 
-The ocean has already absorbed most of the excess heat in the climate system. The atmosphere, land surfaces, cities, forests, soils, and ecosystems are also under thermal stress. When heat is redistributed under this high-energy baseline, the result can appear as stronger, wider, and more compound disasters.
+## The Ocean Already Holds a Massive Amount of Heat
 
-This is the core argument of this repository:
+The ocean is the largest active heat reservoir near the surface of the Earth. It absorbs and stores heat that does not immediately appear as air temperature.
 
-- climate disasters are not only random damage events;
-- they are also signals of overloaded heat and water-vapor redistribution;
-- reducing emissions remains necessary;
-- but climate stability also requires restoring the Earth's cooling functions;
-- Cooling Credit is proposed as a thermal-accounting framework for valuing measurable cooling contribution.
+- Ocean heat can strengthen evaporation.
+- Evaporation can increase atmospheric water vapor.
+- Water vapor can intensify rainfall when conditions converge.
+- Warm ocean surfaces can support stronger tropical cyclones.
+- Marine heat waves can stress ecosystems and food systems.
 
----
+This is why climate risk should be discussed not only as carbon concentration, but also as accumulated heat.
 
-## Climate Disasters Are Signs of Heat Redistribution
+## El Niño Is Natural, but El Niño in the Age of Global Warming Is Different
 
-Typhoons, heavy rainfall, heat waves, droughts, marine heat waves, and wildfires are often treated separately.
+El Niño is a natural climate phenomenon. However, a natural phenomenon operating in a warmer ocean-atmosphere system can carry different levels of risk.
 
-But many of them are connected through heat and water.
+- El Niño can release stored ocean heat into the atmosphere.
+- It can shift rainfall patterns across regions.
+- It may amplify drought, flood, crop, ocean, and ecosystem risks.
+- In a warmer baseline climate, its impacts can become more severe.
 
-- Warm oceans supply heat and water vapor.
-- Water vapor forms clouds and rainfall.
-- Winds and low-pressure systems move energy across regions.
-- Ocean currents redistribute heat through the sea.
-- Drought and wildfire can emerge when water-cycle balance collapses.
-- Heat waves can intensify when land, cities, and atmosphere cannot release heat efficiently.
+The framework here does not claim that every disaster is caused by El Niño. It argues that El Niño should be read together with ocean heat, water vapor, and thermal imbalance.
 
-In this sense, climate disasters can be interpreted as intense expressions of the Earth moving excess heat.
+## Why “El Niño Has Always Existed” Is Not Enough
 
-The problem is not that Earth circulation exists.
+The statement that El Niño has always existed is true, but incomplete.
 
-The problem is that the circulation is now operating under an excessive heat load.
+- Past El Niño events occurred under different global heat conditions.
+- Today, background ocean heat is higher.
+- Atmospheric water-vapor capacity is higher.
+- Coastal exposure, infrastructure density, and food-system dependence are also higher.
 
----
+Natural variability can become more damaging when it operates on top of human-amplified heat accumulation.
 
-## Why the Current Situation Is Different
+## La Niña May No Longer Cool Enough
 
-In the past, storms and rainfall systems could redistribute heat within a climate system that still had stronger buffering capacity.
+La Niña is often associated with cooling relative to El Niño phases, but this does not guarantee a full reset of planetary heat.
 
-Today, the baseline is different.
+- A La Niña period may cool some surface temperature indicators.
+- It may not remove the accumulated heat stored in the ocean.
+- Regional extremes can continue even during cooler phases.
+- Climate recovery should not depend only on natural oscillation.
 
-- ocean heat content is higher;
-- sea surface temperatures are higher;
-- urban heat accumulation is larger;
-- soil moisture and forest water retention are weakened in many regions;
-- marine ecosystems are stressed by warming and marine heat waves;
-- extreme rainfall can be intensified by increased atmospheric moisture.
+This is why active restoration of cooling functions matters.
 
-When a heat-loaded ocean feeds tropical storms and low-pressure systems, the question is not only whether a storm center remains strong.
+## What to Watch When Multiple Typhoons Move Toward the Same Region
 
-The deeper question is where the heat and water vapor are transported.
+When multiple typhoons or tropical systems move toward the same broad region, the key question is not only the number of storms.
 
-Even if a typhoon weakens into a tropical depression, its moisture and rain field can remain dangerous if it interacts with fronts, low-pressure systems, warm seas, and regional topography.
+- How warm is the ocean surface along the storm path?
+- How deep is the warm water layer?
+- How much water vapor is available?
+- Are steering winds repeatedly guiding storms toward the same area?
+- Is the region already saturated by previous rainfall?
+- Are river basins, slopes, and urban drainage systems near failure thresholds?
 
----
+The risk lies in the combination of heat, vapor, timing, and vulnerability.
 
-## Multiple Tropical Systems and Compound Risk
+## Climate Disasters Are a Sign That the Earth Is Trying to Release Heat
 
-When multiple typhoons or tropical depressions move toward the same region, they do not necessarily merge into one giant storm.
+Climate disasters can be read as warning signals from an overloaded planetary system.
 
-One may weaken. One may transition into a tropical depression. One may be absorbed by a front or another low-pressure field. The center may disappear while the moisture field remains.
+- Storms move heat from ocean to atmosphere.
+- Rainfall releases latent heat through condensation.
+- Wind and pressure systems redistribute energy.
+- Floods and droughts reveal the uneven movement of water.
 
-The important point is not only the shape of the storm center.
+This does not mean disasters are beneficial. It means that disaster intensity can reveal how much excess heat and water vapor the system is trying to move.
 
-The important point is the convergence of heat and water vapor.
+## Recovery After Disasters Is Not Enough
 
-Compound risk increases when:
+Disaster recovery is essential, but recovery alone does not address the heat conditions that intensify future disasters.
 
-- warm sea surfaces continue supplying moisture;
-- multiple low-pressure systems transport humid air toward the same region;
-- fronts are activated;
-- southerly moist airflow enters populated regions;
-- rainfall areas expand;
-- localized heavy rainfall or training rainbands become possible.
+- Rebuilding after floods does not cool the ocean.
+- Repairing infrastructure does not reduce atmospheric water vapor.
+- Insurance payments do not restore forests, soil moisture, wetlands, or urban cooling.
+- Emergency response does not by itself reduce thermal imbalance.
 
-This is why climate disaster analysis should look beyond the visible storm center and examine heat, moisture, water-cycle disruption, and thermal redistribution.
+The goal is not only to recover after disasters, but to reduce the excess heat that intensifies them.
 
----
+## Actions Needed to Cool the Earth
 
-## Disaster Recovery Is Not Enough
+Cooling action should be practical, measurable, and adapted to local conditions.
 
-Disaster recovery is necessary.
+- Restore forests, wetlands, soil moisture, and vegetation.
+- Reduce waste heat from cities, transport, industry, and buildings.
+- Increase shade, evapotranspiration, and permeable surfaces.
+- Protect oceans, coastal ecosystems, and water cycles.
+- Design cities and infrastructure around heat reduction.
+- Measure cooling outcomes rather than relying only on emissions accounting.
 
-Roads must be repaired. Flooded homes must be cleaned. Power systems must be restored. Farms must recover. Evacuation systems must work.
+Cooling action is not a substitute for decarbonization. It is a complementary response to heat already present in the system.
 
-But recovery alone does not reduce the next disaster.
+## Carbon Accounting Alone Cannot See Heat
 
-If excess heat is strengthening the disaster cycle, then prevention must include reducing heat itself.
+Carbon accounting is necessary, but it does not directly measure whether the Earth is being cooled.
 
-The required actions include:
+- It tracks emissions and offsets.
+- It can miss local heat, waste heat, land-surface temperature, water retention, and evapotranspiration.
+- It may not distinguish between financial offset and physical cooling.
+- It does not always capture disaster-prevention effects.
 
-- cooling the ocean surface and supporting ocean circulation;
-- reducing urban heat accumulation;
-- lowering exhaust heat;
-- reducing WBGT and heat stress;
-- restoring soil moisture;
-- storing rainwater;
-- increasing humus and organic matter in soil;
-- recovering forest evapotranspiration;
-- restoring water cycles;
-- protecting plankton and marine ecosystems;
-- using evaporative cooling in dry hot regions;
-- combining rainwater, soil, dehumidification, and airflow in humid regions.
-
-These are not just environmental activities.
-
-They are direct or indirect cooling contributions to the Earth's thermal balance.
-
----
-
-## From Carbon Accounting to Thermal Accounting
-
-Carbon accounting focuses on emissions and offsets.
-
-That is important. Reducing greenhouse-gas emissions remains necessary.
-
-But climate disasters are experienced as heat, water stress, rainfall intensity, drought, wildfire, marine heat waves, and ecosystem collapse.
-
-Therefore, climate policy also needs thermal accounting.
-
-Thermal accounting asks:
-
-- How much urban heat was reduced?
-- How much WBGT was lowered?
-- How much soil moisture was restored?
-- How much rainwater was retained?
-- How much forest evapotranspiration was recovered?
-- How much ocean circulation or ecosystem cooling function was supported?
-- How much local cooling capacity was restored?
-
-This is the missing layer between climate science, disaster prevention, and real-world implementation.
-
----
+Thermal accounting is needed to evaluate measurable changes in heat load, surface temperature, water-cycle function, and cooling contribution.
 
 ## What Is Cooling Credit?
 
-Cooling Credit is a proposed framework for assigning value to measurable cooling contribution.
+Cooling Credit is a framework for giving value to measurable cooling contribution.
 
-Carbon credits mainly evaluate emissions reduction or offsetting. Cooling Credits evaluate actions that measurably reduce heat load, restore water cycles, improve soil moisture, reduce WBGT, support ecosystem cooling functions, and recover regional cooling capacity.
+- It can recognize actions that reduce heat load.
+- It can support projects that restore natural cooling functions.
+- It can connect climate finance to physical cooling outcomes.
+- It can help investors, policymakers, communities, and climate-tech builders compare cooling effects.
 
-Cooling Credit is not a license to emit.
+Cooling Credit is not a license to emit. It is proof of measurable cooling contribution.
 
-Cooling Credit is proof of cooling contribution.
+## The Best Cooling Model Differs by Climate Zone
 
-Potential evaluation targets include:
+Cooling strategies should differ by climate zone, ecosystem, and social context.
 
-- air temperature reduction;
-- surface temperature reduction;
-- WBGT reduction;
-- exhaust heat reduction;
-- rainwater storage;
-- soil moisture recovery;
-- humus and organic matter restoration;
-- evapotranspiration recovery;
-- urban cooling;
-- ocean circulation support;
-- marine ecosystem protection;
-- regional cooling potential.
+- Humid regions may prioritize flood control, vegetation, evapotranspiration, and stormwater absorption.
+- Dry regions may prioritize water retention, shade, soil restoration, and heat-resilient mobility.
+- Coastal regions may prioritize mangroves, wetlands, sea-breeze corridors, and ocean protection.
+- Urban regions may prioritize waste-heat reduction, cool surfaces, building design, transit, and green-blue infrastructure.
 
----
+There is no single universal cooling model. The framework should compare measurable cooling contribution across contexts.
 
-## Cooling Models Differ by Climate Zone
+## Giving Value to Cooling Action
 
-Cooling Credit is not a one-size-fits-all technology.
+Climate finance often values avoided emissions more clearly than restored cooling. Cooling Credits can help close that gap.
 
-The best cooling model depends on humidity, rainfall, soil moisture, solar exposure, season, and regional infrastructure.
+- Communities that restore cooling functions should be recognized.
+- Investors need measurable outcomes.
+- Policymakers need a framework that connects disaster prevention and cooling.
+- Climate-tech projects need metrics beyond carbon claims.
 
-A simplified pre-verification model suggests:
+From carbon accounting to thermal accounting. From disaster response to cooling prevention.
 
-- in high-humidity rainy regions, rainwater + humus + soil moisture can be effective;
-- in humid hot summer cities, dehumidification + airflow can reduce WBGT;
-- in dry hot regions, mist evaporative cooling can be effective;
-- in humid tropical cities, soil- and water-cycle-based cooling models can apply.
+## Conclusion: Reducing Climate Disaster Risk Requires Restoring Earth’s Cooling Functions
 
-This means Cooling Credit should evaluate the most suitable cooling action for each climate zone, rather than applying the same method everywhere.
+Reducing disaster risk requires more than emergency response and reconstruction. It requires restoring the cooling functions that reduce the energy available for extreme events.
 
----
+- Carbon reduction remains necessary.
+- Thermal accounting makes heat visible.
+- Cooling Credits can value measurable cooling contribution.
+- Regional cooling strategies can reduce disaster pressure.
+- Climate prevention should include the restoration of planetary heat circulation.
 
-## Why Value Must Be Assigned to Cooling Action
-
-Many climate actions are framed as sacrifice, cost, or restriction.
-
-That alone is not enough to move society at scale.
-
-If cooling action has measurable value, then climate prevention can become investable.
-
-- Companies that cool cities can be evaluated.
-- Municipalities that store rainwater can be evaluated.
-- Agriculture that restores soil moisture can be evaluated.
-- Forests can be treated as cooling infrastructure.
-- Ocean circulation and ecosystem restoration can become investment targets.
-- Architecture and urban design that reduce WBGT can be rewarded.
-
-This is how climate action can move from burden to market mechanism.
-
-The role of Cooling Credit is to redirect human incentives away from natural destruction and toward natural regeneration.
-
----
-
-## Conclusion
-
-Climate disasters can be interpreted as signs that the Earth is trying to move excess heat.
-
-But when the whole system already contains too much heat, redistribution alone cannot cool the planet enough. Instead, circulation can appear as stronger and more compound disasters.
-
-The answer is not only post-disaster recovery.
-
-The answer is preventive cooling.
-
-From disaster response to cooling prevention.  
-From carbon accounting to thermal accounting.  
-From license-to-emit logic to measurable cooling contribution.
-
-The Earth is not a machine.  
-It is a circulating living system of heat, water, soil, forests, oceans, and life.
-
-Restoring that circulation is the next stage of climate action.
-
-Cooling Credit is one proposed mechanism for valuing that restoration.
-
----
+Climate disasters are not only damage to be repaired. They are signals that the Earth’s cooling functions must be restored.
 
 ## Related Links
 
@@ -246,19 +181,15 @@ Cooling Credit is one proposed mechanism for valuing that restoration.
 - [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
 - [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
 - [Carbon Credit Limitations and Cooling Credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit)
-- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit)
-
----
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
 
 ## Author
 
 **Master / inchacomusho / InchaComisho**
 
-An independent Japanese conceptual architect, observer, proposer, AI tuner, and definer of artificial wisdom.  
-Proposer of the academic framework of Natural Complementary Science.  
+An independent Japanese conceptual architect, observer, proposer, AI tuner, and definer of artificial wisdom.
+Proposer of the academic framework of Natural Complementary Science.
 Publishes work centered on natural-law philosophy, planetary circulation regeneration, and co-creation with AI.
-
----
 
 ## Collaborating AI Team
 
@@ -271,31 +202,30 @@ This knowledge framework has been developed through dialogue and co-creation bet
 - Lola (Dola)
 - Mana (Manus)
 
----
-
 ## Release Date
 
 June 25, 2026
 
----
-
 ## License
 
-This work is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
-You are free to share and adapt this work, including for research, education, policy design, translation, and implementation, provided appropriate credit is given.
-
-Original concept and author: **Master / inchacomusho / InchaComisho**
-
-License text: https://creativecommons.org/licenses/by/4.0/
-
----
+Creative Commons Attribution 4.0 International Public License (CC BY 4.0).
+See [LICENSE](./LICENSE).
 
 ## Keywords
 
-climate disasters, heat redistribution, typhoon, heavy rainfall, heat wave, drought, marine heat wave, wildfire, global warming, climate change, ocean heat accumulation, water vapor, Earth circulation, Cooling Credit, thermal accounting, carbon accounting, WBGT, urban cooling, water cycle, soil moisture, humus, ocean circulation, forest regeneration, Natural Complementary Science
-
----
+- climate disasters
+- heat redistribution
+- water vapor redistribution
+- El Niño
+- typhoon risk
+- heavy rain
+- ocean heat
+- thermal accounting
+- cooling contribution
+- Cooling Credit
+- disaster prevention
+- planetary cooling
 
 ## Hashtags
 
-#ClimateDisasters #HeatRedistribution #Typhoon #HeavyRainfall #HeatWave #Drought #MarineHeatwave #Wildfire #GlobalWarming #ClimateChange #OceanHeat #CoolingCredit #ThermalAccounting #CarbonAccounting #WBGT #UrbanCooling #WaterCycle #SoilMoisture #NaturalComplementaryScience
+#ClimateDisasters #ThermalAccounting #CoolingCredit #ElNino #TyphoonRisk #PlanetaryCooling
