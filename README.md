@@ -174,23 +174,20 @@ Reducing disaster risk requires more than emergency response and reconstruction.
 
 Climate disasters are not only damage to be repaired. They are signals that the Earth’s cooling functions must be restored.
 
-## Related Links
+## Related Cooling Credit Repositories
 
-- [Sustainable Future Cooling Credit Portal](https://inchacomisho.github.io/Sustainable-Future-Cooling-Credit-Portal/)
-- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
-- [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
-- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
-- [Carbon Credit Limitations and Cooling Credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit)
-- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+This repository is part of the broader Cooling Credit knowledge system proposed by Master / inchacomusho / InchaComisho.
 
-### Global Warming Causal Structure and Cooling Credit
-
-- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
-- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
-- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
-- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
-
-<!-- COOLING-CREDIT-REPOSITORY-FAMILY:START -->
+- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — Core concept and overview of Cooling Credit.
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — Official definition, classification framework, and diagrams.
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — Structural framework for Cooling Credit evaluation.
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — Practical implementation portfolio.
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — Implementation and finance model.
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — Transition model from Carbon Credit to Cooling Credit.
+- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — Analysis of Carbon Credit limitations and the need for Cooling Credit.
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — Portal for sustainable future and Cooling Credit knowledge.
+- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — El Niño warning and Cooling Credit perspective.
+- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — Climate disasters as heat redistribution and the role of Cooling Credit.
 
 ---
 
